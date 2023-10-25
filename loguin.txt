@@ -3,3 +3,7 @@ olaaaa
 digite seu usuario:
 
 digite sua senha:
+
+
+
+coloca sua idade:
